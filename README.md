@@ -10,3 +10,6 @@ cd server & go run server.go
 ```
 cd client & go run client.go
 ```
+
+## probably to develop
+* Add a simple GUI.
